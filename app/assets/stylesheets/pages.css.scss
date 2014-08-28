@@ -3,14 +3,10 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-$navbarBackgroundHighlight: white;
-$navbarBackground: white;
-$btnPrimaryBackground: purple;
 
 body{
     padding-top: 60px;
 }
-
 
 .navbar-inner{
     border: 0;
@@ -19,7 +15,7 @@ body{
 .footer{
     margin-top: 50px;
     color: lightgray;
-    a{
+    a {
         color: gray;
     }
 }
